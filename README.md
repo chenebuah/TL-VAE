@@ -1,6 +1,6 @@
 # TL-VAE Model
 
-Title: **Target-learning the Latent Space of a Variational Autoencoder model for the Inverse Design of Stable Perovskites**
+Title: **Target-learning the Latent Space of a Variational Autoencoder model for the Inverse Design of Stable Perovskites.**
 
 Accepted for publication at the *36th Canadian Conference on Artificial Intelligence* (Montreal, June-2023).
 
