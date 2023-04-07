@@ -31,6 +31,9 @@ class Sampling(layers.Layer):
 
 # Shape of input samples i.e X_samples = (27587*60*88*3)
 
+## Note that the concept behind the development of the invertible descriptor design for representing perovskite inputs, including relevant feature embedding 
+# can be found at: https://github.com/chenebuah/high_dim_descriptor/blob/main/fourier_calc.ipynb
+
 latent_dim = 256
 
 #encoder
