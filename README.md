@@ -3,6 +3,7 @@
 Title: **Target-learning the Latent Space of a Variational Autoencoder model for the Inverse Design of Stable Perovskites.**
 
 Accepted for publication at the *36th Canadian Conference on Artificial Intelligence* (Montreal, June-2023).
+https://www.doi.org/10.21428/594757db.07402193
 
 # Authors
 Ericsson Tetteh Chenebuah [1,2,*], Michel Nganbe [1] and Alain Beaudelaire Tchagang [2]
