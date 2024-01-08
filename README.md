@@ -32,3 +32,19 @@ This research was supported by the National Research Council of Canada (NRC) thr
 [2] Z. Ren et al., Matter, 5(1), (2022), 314-335. https://doi.org/10.1016/j.matt.2021.11.032
 
 [3] E.T. Chenebuah et al., Mater. Res. Express., (2023). https://doi.org/10.1088/2053-1591/acb683
+
+
+### Citing
+
+If you are using this resource please cite as:
+```latex
+@article{Chenebuah2023Target,
+	author = {Chenebuah, Ericsson and Nganbe, Michel and Tchagang, Alain},
+	journal = {Proceedings of the Canadian Conference on Artificial Intelligence},
+	year = {2023},
+	month = {jun 5},
+	note = {https://caiac.pubpub.org/pub/z0v0g7l7},
+	publisher = {Canadian Artificial Intelligence Association (CAIAC)},
+	title = {Target-learning the {Latent} {Space} of a {Variational} {Autoencoder} model for the {Inverse} {Design} of {Stable} {Perovskites}},
+}
+```
